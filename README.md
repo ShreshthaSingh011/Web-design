@@ -28,5 +28,10 @@ Flexbox helps us design our webpage so that it looks good on any screen size. In
 
 ![image](https://github.com/ShreshthaSingh011/Web-design/assets/50359330/b4eac007-1677-4c8e-8ff9-ed335df16b55)
 
+Learning Typography by buidling a Nutrition Label
+Typography is the art of styling our text to be easily readable and suit its purpose. In this course, I used typography to build a nutrition label webpage. I learned how to style text, adjust line height, and position your text using CSS.
+
+![image](https://github.com/ShreshthaSingh011/Web-design/assets/50359330/d232e272-6210-4929-ab6d-dddac584ae3c)
+
 
 
