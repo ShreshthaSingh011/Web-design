@@ -9,7 +9,9 @@ Colour Markers using HTML and CSS
 ![image](https://github.com/ShreshthaSingh011/Web-design/assets/50359330/30145cde-69d4-4b11-a63f-1aa0b732f394)
 
 Registration Form using HTML and CSS
+
 ![image](https://github.com/ShreshthaSingh011/Web-design/assets/50359330/272f484f-f117-4f12-bb03-9da9ad443604)
+
 ![image](https://github.com/ShreshthaSingh011/Web-design/assets/50359330/89499e11-c089-4255-970f-a484262b5787)
 
 
