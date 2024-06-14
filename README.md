@@ -14,9 +14,9 @@ Registration Form using HTML and CSS
 
 ![image](https://github.com/ShreshthaSingh011/Web-design/assets/50359330/89499e11-c089-4255-970f-a484262b5787)
 
+Every HTML element is its own box – with its own spacing and a border. This is called the Box Model. In this segment,I used CSS and the Box Model to create Rothko-style rectangular art pieces.
 
-
-
+![image](https://github.com/ShreshthaSingh011/Web-design/assets/50359330/ea14d87c-fb9e-4ad0-81d1-75b658c0228f)
 
 
 
