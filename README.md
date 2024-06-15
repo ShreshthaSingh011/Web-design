@@ -54,3 +54,8 @@ Mastering CSS positioning is essential for creating visually appealing and respo
 # Responsive Web Design by Building a Piano
 Responsive Design tells your webpage how it should look on different-sized screens. In this course, you'll use CSS and Responsive Design to code a piano. You'll also learn more about media queries and pseudo selectors.
 ![image](https://github.com/ShreshthaSingh011/Web-design/assets/50359330/13acd14e-7fdc-4cbd-bda2-304b354e0517)
+
+# Learning CSS Variables by Building a city Skyline
+CSS variables help you organize your styles and reuse them. I learned how to configure CSS variables so we can reuse them whenever we want.
+
+
