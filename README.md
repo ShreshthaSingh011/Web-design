@@ -4,7 +4,7 @@ Explore a variety of beginner-friendly web design projects in this repository. F
 # Learning CSS Transforms by Building a penguin
 We transform HTML elements to create appealing designs that draw the reader's eye. We can use transforms to rotate elements, scale them, and more. In this course, I have built  a penguin. I used CSS transforms to position and resize the parts of the penguin, create a background, and animate oour work.
 
-
+![](https://github.com/ShreshthaSingh011/Web-design/blob/main/penguin.gif)
 
 # CSS Animation by Building a Ferris Wheel
 We can use CSS animation to draw attention to specific sections of our webpage and make it more engaging. Here, I have built a Ferris wheel. You'll learn how to use CSS to animate elements, transform them, and adjust their speed.
