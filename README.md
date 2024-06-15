@@ -11,6 +11,20 @@ We can use CSS animation to draw attention to specific sections of our webpage a
 
 ![](https://github.com/ShreshthaSingh011/Web-design/blob/main/ferris%20wheel.gif)
 
+# Learning CSS Variables by Building a city Skyline
+CSS variables help you organize your styles and reuse them. I learned how to configure CSS variables so we can reuse them whenever we want.
+
+![image](https://github.com/ShreshthaSingh011/Web-design/assets/50359330/5cb98824-1bcb-4f09-8138-ea835e39406d)
+
+![image](https://github.com/ShreshthaSingh011/Web-design/assets/50359330/d3f715c7-d92b-4ee3-a75e-4d2143330d76)
+
+# Registration Form using HTML and CSS
+We can use HTML forms to collect information from people who visit our webpage. In this section, I learned HTML forms by building a signup page. I also learned how to control what types of data people can type into our form, and some new CSS tools for styling our page.
+
+![image](https://github.com/ShreshthaSingh011/Web-design/assets/50359330/272f484f-f117-4f12-bb03-9da9ad443604)
+
+![image](https://github.com/ShreshthaSingh011/Web-design/assets/50359330/89499e11-c089-4255-970f-a484262b5787)
+
 # Cafe menu using CSS 
 CSS tells the browser how to display our webpage. We can use CSS to set the color, font, size, and other aspects of HTML elements. In this course, I learned CSS by designing a menu page for a cafe webpage.
 
@@ -20,13 +34,6 @@ CSS tells the browser how to display our webpage. We can use CSS to set the colo
 Selecting the correct colors for our webpage can greatly improve the aesthetic appeal to our readers. In this course, I built a set of colored markers. I learned different ways to set color values and how to pair colors with each other.
 
 ![image](https://github.com/ShreshthaSingh011/Web-design/assets/50359330/30145cde-69d4-4b11-a63f-1aa0b732f394)
-
-# Registration Form using HTML and CSS
-We can use HTML forms to collect information from people who visit our webpage. In this section, I learned HTML forms by building a signup page. I also learned how to control what types of data people can type into our form, and some new CSS tools for styling our page.
-
-![image](https://github.com/ShreshthaSingh011/Web-design/assets/50359330/272f484f-f117-4f12-bb03-9da9ad443604)
-
-![image](https://github.com/ShreshthaSingh011/Web-design/assets/50359330/89499e11-c089-4255-970f-a484262b5787)
 
 # Rothko Painting and learning CSS
 Every HTML element is its own box – with its own spacing and a border. This is called the Box Model. In this segment,I used CSS and the Box Model to create Rothko-style rectangular art pieces.
@@ -64,12 +71,3 @@ Mastering CSS positioning is essential for creating visually appealing and respo
 # Responsive Web Design by Building a Piano
 Responsive Design tells your webpage how it should look on different-sized screens. In this course, you'll use CSS and Responsive Design to code a piano. You'll also learn more about media queries and pseudo selectors.
 ![image](https://github.com/ShreshthaSingh011/Web-design/assets/50359330/13acd14e-7fdc-4cbd-bda2-304b354e0517)
-
-# Learning CSS Variables by Building a city Skyline
-CSS variables help you organize your styles and reuse them. I learned how to configure CSS variables so we can reuse them whenever we want.
-
-![image](https://github.com/ShreshthaSingh011/Web-design/assets/50359330/5cb98824-1bcb-4f09-8138-ea835e39406d)
-
-![image](https://github.com/ShreshthaSingh011/Web-design/assets/50359330/d3f715c7-d92b-4ee3-a75e-4d2143330d76)
-
-
