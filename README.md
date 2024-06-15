@@ -2,7 +2,7 @@
 <div align="justify">
 When exploring beginner-friendly web design projects, one can discover a variety of resources offering detailed documentation with HTML, CSS, and occasionally JavaScript code. These projects are ideal for honing skills and finding inspiration for future web development endeavors. Whether one is interested in creating simple landing pages or experimenting with interactive prototypes, each project provides a valuable opportunity to learn and grow.</div>
 
-# Learning CSS Transforms by Building a penguin
+# Learning CSS Transforms by Building a Penguin
 
 <div align="justify">We transform HTML elements to create appealing designs that draw the reader's eye. We can use transforms to rotate elements, scale them, and more. In this course, I have built  a penguin. I used CSS transforms to position and resize the parts of the penguin, create a background, and animate oour work. </div>
 ![](https://github.com/ShreshthaSingh011/Web-design/blob/main/penguin.gif)
@@ -12,7 +12,7 @@ When exploring beginner-friendly web design projects, one can discover a variety
 
 ![](https://github.com/ShreshthaSingh011/Web-design/blob/main/ferris%20wheel.gif)
 
-# Learning CSS Variables by Building a city Skyline
+# Learning CSS Variables by Building a City Skyline
 <div align="justify">CSS variables help you organize your styles and reuse them. I learned how to configure CSS variables so we can reuse them whenever we want. </div>
 
 ![image](https://github.com/ShreshthaSingh011/Web-design/assets/50359330/5cb98824-1bcb-4f09-8138-ea835e39406d)
@@ -26,7 +26,7 @@ When exploring beginner-friendly web design projects, one can discover a variety
 
 ![image](https://github.com/ShreshthaSingh011/Web-design/assets/50359330/89499e11-c089-4255-970f-a484262b5787)
 
-# Cafe menu using CSS 
+# Cafe Menu using CSS 
 <div align="justify">CSS tells the browser how to display our webpage. We can use CSS to set the color, font, size, and other aspects of HTML elements. In this course, I learned CSS by designing a menu page for a cafe webpage. </div>
 
 ![image](https://github.com/ShreshthaSingh011/Web-design/assets/50359330/914e9206-c4c7-4da6-9164-66db9749b84c)
@@ -36,12 +36,12 @@ When exploring beginner-friendly web design projects, one can discover a variety
 
 ![image](https://github.com/ShreshthaSingh011/Web-design/assets/50359330/30145cde-69d4-4b11-a63f-1aa0b732f394)
 
-# Rothko Painting and learning CSS
+# Rothko Painting and Learning CSS
 <div align="justify">Every HTML element is its own box – with its own spacing and a border. This is called the Box Model. In this segment,I used CSS and the Box Model to create Rothko-style rectangular art pieces.   </div>
 
 ![image](https://github.com/ShreshthaSingh011/Web-design/assets/50359330/ea14d87c-fb9e-4ad0-81d1-75b658c0228f)
 
-# Learning CSS Flexbox by building a photo gallery
+# Learning CSS Flexbox by building a Photo Gallery
 <div align="justify">Flexbox helps us design our webpage so that it looks good on any screen size. In this course, I used Flexbox to build a responsive photo gallery webpage. </div>
 
 ![image](https://github.com/ShreshthaSingh011/Web-design/assets/50359330/b4eac007-1677-4c8e-8ff9-ed335df16b55)
@@ -58,7 +58,7 @@ It supplements HTML so that interactions and widgets commonly used in applicatio
 
 ![image](https://github.com/ShreshthaSingh011/Web-design/assets/50359330/3aab7e13-f918-4bf9-a728-75be4de006d8)
 
-# Learning about CSS pseudo selectors to change specific HTML elements.
+# Learning about CSS Pseudo Selectors to change specific HTML elements.
 
 <div align="justify">In this course, I built a balance sheet using pseudo selectors. I learned how to change the style of an element when one hovers over it with their mouse, and trigger other events on our webpage. </div>
 
