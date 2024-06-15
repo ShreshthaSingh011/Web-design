@@ -46,3 +46,11 @@ In this course, I built a balance sheet using pseudo selectors. I learned how to
 
 ![Screenshot 2024-06-15 145143](https://github.com/ShreshthaSingh011/Web-design/assets/50359330/ff47adbe-65d1-486f-b758-381918ae6a98)
 
+# Learning intermediate level CSS
+Mastering CSS positioning is essential for creating visually appealing and responsive web layouts. Here I build a cat painting. I learned about how to work with absolute positioning, the z-index property, and the transform property.
+
+![image](https://github.com/ShreshthaSingh011/Web-design/assets/50359330/cd604080-c3cf-442e-8ec8-f97b7f83721e)
+
+# Responsive Web Design by Building a Piano
+Responsive Design tells your webpage how it should look on different-sized screens. In this course, you'll use CSS and Responsive Design to code a piano. You'll also learn more about media queries and pseudo selectors.
+![image](https://github.com/ShreshthaSingh011/Web-design/assets/50359330/13acd14e-7fdc-4cbd-bda2-304b354e0517)
