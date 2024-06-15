@@ -58,4 +58,8 @@ Responsive Design tells your webpage how it should look on different-sized scree
 # Learning CSS Variables by Building a city Skyline
 CSS variables help you organize your styles and reuse them. I learned how to configure CSS variables so we can reuse them whenever we want.
 
+![image](https://github.com/ShreshthaSingh011/Web-design/assets/50359330/5cb98824-1bcb-4f09-8138-ea835e39406d)
+
+![image](https://github.com/ShreshthaSingh011/Web-design/assets/50359330/d3f715c7-d92b-4ee3-a75e-4d2143330d76)
+
 
