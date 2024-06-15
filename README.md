@@ -4,7 +4,7 @@ Explore a variety of beginner-friendly web design projects in this repository. F
 # CSS Animation by Building a Ferris Wheel
 We can use CSS animation to draw attention to specific sections of our webpage and make it more engaging. Here, I have built a Ferris wheel. You'll learn how to use CSS to animate elements, transform them, and adjust their speed.
 
-
+![](https://github.com/ShreshthaSingh011/Web-design/blob/main/ferris%20wheel.gif)
 
 # Cafe menu using CSS 
 CSS tells the browser how to display our webpage. We can use CSS to set the color, font, size, and other aspects of HTML elements. In this course, I learned CSS by designing a menu page for a cafe webpage.
