@@ -1,5 +1,6 @@
 # Web-Design
-When exploring beginner-friendly web design projects, one can discover a variety of resources offering detailed documentation with HTML, CSS, and occasionally JavaScript code. These projects are ideal for honing skills and finding inspiration for future web development endeavors. Whether one is interested in creating simple landing pages or experimenting with interactive prototypes, each project provides a valuable opportunity to learn and grow.
+<div align="justify"> your text 
+When exploring beginner-friendly web design projects, one can discover a variety of resources offering detailed documentation with HTML, CSS, and occasionally JavaScript code. These projects are ideal for honing skills and finding inspiration for future web development endeavors. Whether one is interested in creating simple landing pages or experimenting with interactive prototypes, each project provides a valuable opportunity to learn and grow.</div>
 
 # Learning CSS Transforms by Building a penguin
 We transform HTML elements to create appealing designs that draw the reader's eye. We can use transforms to rotate elements, scale them, and more. In this course, I have built  a penguin. I used CSS transforms to position and resize the parts of the penguin, create a background, and animate oour work.
