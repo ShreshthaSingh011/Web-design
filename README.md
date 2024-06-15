@@ -71,4 +71,5 @@ It supplements HTML so that interactions and widgets commonly used in applicatio
 
 # Responsive Web Design by Building a Piano
 <div align="justify">Responsive Design tells your webpage how it should look on different-sized screens. In this course, you'll use CSS and Responsive Design to code a piano. You'll also learn more about media queries and pseudo selectors. </div>
+
 ![image](https://github.com/ShreshthaSingh011/Web-design/assets/50359330/13acd14e-7fdc-4cbd-bda2-304b354e0517)
