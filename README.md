@@ -40,4 +40,7 @@ It supplements HTML so that interactions and widgets commonly used in applicatio
 
 ![image](https://github.com/ShreshthaSingh011/Web-design/assets/50359330/3aab7e13-f918-4bf9-a728-75be4de006d8)
 
+# CSS pseudo selectors to change specific HTML elements
+In this course, I built a balance sheet using pseudo selectors. I leanned how to change the style of an element when we hover over it with oour mouse, and trigger other events on oour webpage.
+
 
