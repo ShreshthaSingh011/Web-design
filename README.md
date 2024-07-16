@@ -74,7 +74,3 @@ It supplements HTML so that interactions and widgets commonly used in applicatio
 <div align="justify">Responsive Design tells your webpage how it should look on different-sized screens. This is important for agility and adjustability of our application. In this course, I used CSS and Responsive Design to code a piano. I also learned about media queries and pseudo selectors. </div>
 
 ![image](https://github.com/ShreshthaSingh011/Web-design/assets/50359330/13acd14e-7fdc-4cbd-bda2-304b354e0517)
-
-# Certificattion for the course can be found here:
-https://freecodecamp.org/certification/ShreshthaSingh/responsive-web-design
-
