@@ -5,6 +5,7 @@ When exploring beginner-friendly web design projects, one can discover a variety
 # Learning CSS Transforms by Building a Penguin
 
 <div align="justify">We transform HTML elements to create appealing designs that draw the reader's eye. We can use transforms to rotate elements, scale them, and more. In this course, I have built  a penguin. I used CSS transforms to position and resize the parts of the penguin, create a background, and animate oour work. </div>
+
 ![](https://github.com/ShreshthaSingh011/Web-design/blob/main/penguin.gif)
 
 # CSS Animation by Building a Ferris Wheel
